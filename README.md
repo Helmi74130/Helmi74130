@@ -5,6 +5,26 @@
 My name is Helmi El Maiel i am a Full/stack developer! ⚡
  Passionate about web, design, programming and coding. 
  Thirsty to know I try to learn as much as possible every day.🌱
+ Web project management
+👉Showcase site, events, e-commerce, redesign
+
+Graphic design and design
+👉Layout, wireframes, web interfaces, visual accessibility
+
+Development of cross-platform applications
+👉Site Compatible with all media, tablet and mobile
+
+Web application deployment
+👉Domain name and hosting
+
+𝑬𝑿𝑷𝑬𝑹𝑻𝑰𝑺𝑬 𝑻𝑬𝑪𝑯𝑵𝑰𝑸𝑼𝑬:
+👉 Web languages: PHP, CSS3, HTML5, JavaScript, jQuery, React, SASS...
+👉 PHP Framework: Symfony
+👉 CSS Framework: Bootstrap
+👉CMS: WordPress, Directus, Strapi
+👉 Databases: MySQL, Doctrine ORM, phpMyAdmin
+👉 Design / Modeling: UML
+👉 Other skills: SEO, GitHub, Design, Wireframe, Mockup
 
 
 ## 🛠 Skills
