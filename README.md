@@ -1,34 +1,22 @@
 
 # Hi there 👋
 
-✨ Nice to meet you ! ✨ 
-My name is Helmi El Maiel i am a Full/stack developer! ⚡
- Passionate about web, design, programming and coding. 
- Thirsty to know I try to learn as much as possible every day.🌱
- Web project management
-👉Showcase site, events, e-commerce, redesign
+✨My name is Helmi Full Stack Web Developer✨
 
-Graphic design and design
-👉Layout, wireframes, web interfaces, visual accessibility
+👉 As a passionate web developer⚡, I am determined to design websites that not only meet your needs but exceed them. With 2 years of experience in web development, I have gained a great deal of expertise in the latest technologies such as React, Symfony, Javascript, PHP, CSS, Bootstrap, Bulma... 🌱 I am also proficient in database development, search engine optimization, and responsive design.
 
-Development of cross-platform applications
-👉Site Compatible with all media, tablet and mobile
+👉 What truly sets me apart from my competitors is my passion for web development. I don't see each project as just a task to be completed, but as an opportunity to create something truly exceptional. I am always looking for new challenges and opportunities to demonstrate my expertise and create websites that exceed my clients' expectations.
 
-Web application deployment
-👉Domain name and hosting
+👉 As a freelancer, I am also very attentive to my clients' needs and committed to communicating with them regularly to ensure their project is progressing as planned.
 
-𝑬𝑿𝑷𝑬𝑹𝑻𝑰𝑺𝑬 𝑻𝑬𝑪𝑯𝑵𝑰𝑸𝑼𝑬:
-👉 Web languages: PHP, CSS3, HTML5, JavaScript, jQuery, React, SASS...
-👉 PHP Framework: Symfony
-👉 CSS Framework: Bootstrap
-👉CMS: WordPress, Directus, Strapi
-👉 Databases: MySQL, Doctrine ORM, phpMyAdmin
-👉 Design / Modeling: UML
-👉 Other skills: SEO, GitHub, Design, Wireframe, Mockup
+👉 I am available to discuss your project and how I can help bring it to life with passion and expertise. Don't hesitate, contact me now to discuss your project.
+
+👉 To get to know me better, check out my portfolio!
+
 
 
 ## 🛠 Skills
-HTML, CSS, SASS, Javascript, Bootstrap, JQUERY, REACT, PHP, Symfony, Wordpress, Github, Directus,...
+HTML, CSS, SASS, Javascript, Bootstrap, Bulma, JQUERY, REACT, PHP, Symfony, Wordpress, Github, Directus, Illustrator, Adobe xd...
 
 <div dir="auto">
  
